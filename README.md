@@ -1,5 +1,6 @@
-**This repository serves as a record of the Digital Applications module**
-**Any and all code not in the "RentalCarSystem" has been provided by the professor of the module Dr Courtney Reed**
+**This repository serves as a record of the Digital Applications module.**
+
+**Any and all code not in the "RentalCarSystem" has been provided by the professor of the module Dr Courtney Reed.**
 
 
 # Car Rental System Project: Digital Application Development
